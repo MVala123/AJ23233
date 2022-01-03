@@ -1,4 +1,4 @@
-###                           \t\t\t            Hi, I'm Ajay Vanara👋
+###                                                                             Hi, I'm Ajay Vanara👋
 
 <!--
 **AJ23233/AJ23233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
