@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I am Ajay Vanara, currently working as a Python Developer. I am very curios learn new technologies and enhance my skills to use them for creating something useful or improve the existing softwares.   
+I am Ajay Vanara, currently working as a Python Developer. I am very curios to learn new technologies and enhance my skills to use them for creating something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
