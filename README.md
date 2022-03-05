@@ -4,9 +4,9 @@
 
 <h2>About me</h2>
 
-I am currently working as a Software Developer. I am quite fond of learning new technologies, in addition to Python, Flask, Django, Kafka, PostgreSQL my strogest skill is Machine Learning.
-I would appreciate any opportunities that would require such skills and will be curious to migrate/integrate the product with cloud technologies
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
+I am currently working as a Software Developer. I am quite fond of learning new technologies, in addition to <b>Python, Flask, Django, Kafka, PostgreSQL my strogest skill is Machine Learning.</b> <br>
+I would appreciate any opportunities that would require such skills and will be curious to migrate/integrate the product with cloud technologies<br>
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.<br>
 💬 Ask me anything, I will be more than happy to help :D <br>
 Follow me on LinkedIn: https://www.linkedin.com/in/ajay-vanara-aa768a170/
 
